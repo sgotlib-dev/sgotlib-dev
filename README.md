@@ -9,9 +9,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on: **[project name]**
-- 🌱 I’m currently learning: **[skill / technology]**
-- 👯 I’m looking to collaborate on: **open-source / web apps / AI projects**
+- 🔭 I’m currently working on: Call Center Data EDA and ML Project
+- 🌱 I’m currently learning: Machine Learning, Linear Algebra
 ---
 
 ## Tech Stack
