@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer building cool stuff from [your country/planet 🚀]</h3>
+<h1 align="center">Hi 👋, I'm Simon
+<h3 align="center">A passionate developer building cool stuff from [North Carolina]</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Developer;Problem+Solver;Open+Source+Enthusiast;Always+Learning" alt="Typing SVG" />
@@ -12,10 +12,6 @@
 - 🔭 I’m currently working on: **[project name]**
 - 🌱 I’m currently learning: **[skill / technology]**
 - 👯 I’m looking to collaborate on: **open-source / web apps / AI projects**
-- 💬 Ask me about: **[your stack or interests]**
-- 📫 Reach me at: **[your email]**
-- ⚡ Fun fact: **[something cool about you]**
-
 ---
 
 ## Tech Stack
